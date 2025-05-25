@@ -9,6 +9,8 @@ The purpose of this master’s thesis is to reveal if the Speculum Scribe used b
 # Citations (for this README)
 Haverals, Wouter and Mike Kestemont. 2023a. From exemplar to copy: the scribal appropriation of a hadewijch manuscript computationally explored. Journal of Data Mining & Digital Humanities, 23, On the Way to the
   Future of Digital Manuscript Studies.
+  
 Kwakkel, Erik. 2002. Die dietsche boeke die ons toebehoeren: de kartuizers van Herne en de productie van Middelnederlandse handschriften in de regio Brussel (1350-1400), volume 27. Peeters Publishers.
+
 Vandyck, Caroline, Wouter Haverals, and Mike Kestemont. 2024a. Making characters count. a computational approach to scribal profiling in 14th-century middle dutch manuscripts from the carthusian monastery of herne
   monastery. In Approaches to Digital Codicology: Interdisciplinarity and intersections. Brepols Publishers.
