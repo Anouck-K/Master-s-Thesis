@@ -4,6 +4,7 @@ This repository contains the code and dataset for the master's thesis "The Specu
 - Alignment: The Python library by Folgert Karsdorp necessary to apply the Needleman-Wunsch algorithm to create the alignment tables. (also available here: https://github.com/fbkarsdorp/alignment)
 - dataset: contains chunked alignments in "V_SP_alignment" and "V_B_alignment", as well as Excel files of the full alignment tables ("V_SP_gospels_alignment" & "V_B_gospels_alignment"). The transcriptions of all three manuscripts are also available as raw text. The folders called "txt files" contain .txt files for each page, while the folders called "txt volledig" contain the entire transcription in one .txt file. The transcriptions of Vienna, ÖNB, SN 12.857 and Brussels, KBR, 2979 were made as part of the *Silent Voices* project and were also made available by Wouter Haverals and Mike Kestemont (2023b) on Zenodo as XML files (https://zenodo.org/records/10005366). The Saint Petersburg, BAN, O 256 transcription was made by a specialised HTR model for this thesis.
 - graphics: The plots that were created in Jupyter notebook
+- Code Master_s thesis - Anouck Kuypers.ipynb: the notebook that contains the necessary code for this master's thesis.
 - Output_KBR.txt, Output_SP.txt, Output_V.txt: The filtered transcriptions of the three manuscripts as .txt files
 
 # Abstract
