@@ -1,7 +1,7 @@
 # Master-s-Thesis
 This repository contains the code and dataset for the master's thesis "The Speculum Scribe's copy of the Middle Dutch translation of the four gospels: A computational comparison of Vienna, ÖNB, SN, 12.857 and its potential exemplars" by Anouck Kuypers.
 
--Alignment: The Python library by Folgert Karsdorp necessary to apply the Needleman-Wunsch algorithm to create the alignment tables. (also available here: https://github.com/fbkarsdorp/alignment)
+- Alignment: The Python library by Folgert Karsdorp necessary to apply the Needleman-Wunsch algorithm to create the alignment tables. (also available here: https://github.com/fbkarsdorp/alignment)
 -
 
 # Abstract
